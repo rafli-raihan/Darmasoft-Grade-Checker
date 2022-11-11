@@ -1,2 +1,2 @@
 # Darmasoft-Grade-Checker
-Simple Grade Checker, made with Lazarus IDe
+Simple Grade Checker for Linux, made with Lazarus IDe
