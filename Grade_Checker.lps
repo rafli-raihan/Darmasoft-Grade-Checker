@@ -11,7 +11,7 @@
         <WindowIndex Value="-1"/>
         <TopLine Value="-1"/>
         <CursorPos X="-1" Y="-1"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="21"/>
       </Unit>
       <Unit>
         <Filename Value="gradecheckerlisting.pas"/>
@@ -20,14 +20,13 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="48"/>
-        <CursorPos X="13" Y="54"/>
-        <UsageCount Value="20"/>
+        <CursorPos X="21" Y="9"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="4">
+    <JumpHistory HistoryIndex="9">
       <Position>
         <Filename Value="gradecheckerlisting.pas"/>
         <Caret Line="46" Column="47" TopLine="24"/>
@@ -47,6 +46,26 @@
       <Position>
         <Filename Value="gradecheckerlisting.pas"/>
         <Caret Line="50" Column="120" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="gradecheckerlisting.pas"/>
+        <Caret Line="54" Column="13" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="gradecheckerlisting.pas"/>
+        <Caret Line="56" Column="13" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="gradecheckerlisting.pas"/>
+        <Caret Line="57" Column="13" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="gradecheckerlisting.pas"/>
+        <Caret Line="58" Column="13" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="gradecheckerlisting.pas"/>
+        <Caret Line="65" Column="183" TopLine="36"/>
       </Position>
     </JumpHistory>
     <RunParams>
